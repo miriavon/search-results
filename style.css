@@ -1,0 +1,96 @@
+body {
+    font-family: Arial;
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: rgb(107, 106, 106);
+}
+/*header {
+    /*position: fixed;*/
+.google-logo {
+    max-width: 80px;
+    max-height: 80px;
+    padding: 30px 30px;
+    margin-left: -20px;
+}
+#text-box {
+    height: 45px;
+    border-radius: 30px;
+    font-size: medium;
+    border: 1px solid rgb(230, 230, 230);
+    margin-top: 15px;
+    width: 700px;
+}
+#text-box:hover {
+    border: 3px solid rgb(230, 230, 230);
+}
+.topright-nav {
+    float: right;
+    margin-top: 20px;
+}
+#apps {
+    background-image: url(https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    opacity: .55;
+    vertical-align: middle;
+    background-position: -120px -30px;
+    background-size: 528px 68px;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin-right: 10px;
+}
+button {
+    background-color: royalblue;
+    color: white;
+    font-weight: bold;
+    font-size: 9pt;
+    border-radius: 2px;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+}
+h2 {
+    font-size: small;
+    font-weight: normal;
+    margin: -40px 120px -20px;
+}
+.results-rightnav {
+    float: left;
+    margin-left: 165px;
+}
+hr {
+    border-top: 1px rgb(230, 230, 230);
+}
+
+
+
+
+
+
+footer {
+    background-color: rgb(245, 243, 243);
+    position: absolute;
+    bottom: 0;
+    width: 99.45%;
+    font-size: small;
+}
+footer ul {
+    padding: 0;
+    margin: 10px;
+}
+footer a {
+    padding: 0;
+    margin: 0 10px;;
+}
