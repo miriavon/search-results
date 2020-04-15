@@ -1,0 +1,1 @@
+Create clone of Google results page for "Build this website". Further dive into HTML/CSS. From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
